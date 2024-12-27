@@ -2,7 +2,8 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Downloads](https://img.shields.io/badge/downloads-10k-orange)
+![GitHub forks](https://img.shields.io/github/forks/alfa155518/vs-code-extensions?style=social)
+![GitHub stars](https://img.shields.io/github/stars/alfa155518/vs-code-extensions?style=social)
 
 ## Getting Started
 - **Install VSCode**: [Download VSCode](https://code.visualstudio.com/)
@@ -120,10 +121,3 @@
 | Markdown All in One | [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | All you need to write Markdown. |
 | markdownlint | [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | Markdown linting and style checking for Visual Studio Code. |
 
-## Next Steps
-- Install tooling for your favorite language/tool - syntax highlighting, intellisense linting, formatting, etc.
-- Get familiar with the command pallet `ctrl-shift-p`. You can search for pretty much anything you want to do, extensions included.
-- Learn and configure your keyboard shortcuts. Anything from the command pallet can be configured as a keyboard shortcut, and you can set contextual shortcuts for specific languages, etc.
-- VSCode has a built-in snippet manager, but you can download additional snippets for specific languages/tools.
-- Configure your editor settings. You can see what I'm currently using here. Some notable configuration:
-  - Set a ruler so your lines of code don't get too long:
