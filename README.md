@@ -1,12 +1,13 @@
-# vs-code-extensions
-## The Ultimate List of VSCode Extensions and Updated constantly 
-
-
 # The Ultimate List of VSCode Extensions
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Downloads](https://img.shields.io/badge/downloads-10k-orange)
 
 ## Getting Started
 - **Install VSCode**: [Download VSCode](https://code.visualstudio.com/)
 - **Enable settings sync**: Use `ctrl-,` or the [Settings Sync extension](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) to sync your settings via GitHub gists.
+
 
 ## General
 | Extension | Link | Description |
